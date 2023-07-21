@@ -4,7 +4,7 @@ A simple snippet/reminder holding app that was developed in 30 minutes~ using Vi
 pending...
 # Installation
 
->**Warning**
+>**Warning:**
 >All operating systems and file sharing programs will deem this application a virus or unsafe, as it is neither a published program nor a error-free build. Install at your own risk.
 
 Feel like testing out the application for yourself? Navigate to the following location within the repository:
