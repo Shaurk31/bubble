@@ -5,7 +5,7 @@ pending...
 # Installation
 
 >**Warning:**
->All operating systems and file sharing programs will deem this application a virus or unsafe, as it is neither a published program nor a error-free build. Install at your own risk.
+>All operating systems and file sharing programs will deem this application a virus or unsafe, as it is neither a published program nor an error-free build. Install at your own risk.
 
 Feel like testing out the application for yourself? Navigate to  ```bubble/install/ ``` and select your desired version and download it.
 
