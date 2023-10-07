@@ -23,6 +23,6 @@ Once installed, extract all files and run the bubble application file.
 </a>
  
 <a href="https://visualstudio.microsoft.com/" target="_" title="_">
-<img src="https://github.com/Shaurk31/bubble/blob/91a7edc41d1f75578ba54c412b770cae90f4fa54/png/vs.png" alt="vs" width="80" height="50">
+<img src="https://github.com/Shaurk31/bubble/blob/91a7edc41d1f75578ba54c412b770cae90f4fa54/png/vs.png" alt="vs" width="85" height="50">
 </a>
 
